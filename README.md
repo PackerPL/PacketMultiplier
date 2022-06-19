@@ -1,4 +1,4 @@
-# PacketCrasher
+# PacketMultiplier
 
 Steps: 
 1) Download the mod.
